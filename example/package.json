@@ -1,0 +1,27 @@
+{
+  "name": "nonin-3230-web-usb-example",
+  "version": "0.1.0",
+  "description": "Nonin 3230 PulseOX Example",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "serve-static": "^1.13.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satchelhealth/WebUSB.git"
+  },
+  "keywords": [
+    "webusb"
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/satchelhealth/WebUSB/issues"
+  },
+  "homepage": "https://github.com/satchelhealth/WebUSB#readme"
+}
