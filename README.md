@@ -72,7 +72,7 @@ This driver was generated using `Zadig` https://zadig.akeo.ie/
 
 ### tools
 
-- [Zadig](https://zadig.akeo.ie/) Tool for replacig drivers
+- [Zadig](https://zadig.akeo.ie/) Tool for replacing drivers on windows
 - [PnPUtil.exe](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil) a command line tool that lets an administrator install/update device drivers on Windows systems.
 
 ### knowledge
